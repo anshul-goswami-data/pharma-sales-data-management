@@ -1,0 +1,73 @@
+hospital_id,hospital_name,prefecture,city,hospital_type,bed_count
+H0001,Shinjuku General Hospital,Tokyo,Shinjuku,General,200
+H0002,Shinjuku Central Hospital,Tokyo,Shinjuku,General,200
+H0003,Shinjuku Memorial Clinic,Tokyo,Shinjuku,Clinic,120
+H0004,Shinjuku University Hospital,Tokyo,Shinjuku,University,50
+H0005,Minato General Hospital,Tokyo,Minato,General,19
+H0006,Minato Red Cross Hospital,Tokyo,Minato,Public,50
+H0007,Minato Medical Center,Tokyo,Minato,General,200
+H0008,Minato Central Hospital,Tokyo,Minato,General,200
+H0009,Setagaya Central Hospital,Tokyo,Setagaya,General,800
+H0010,Setagaya Red Cross Hospital,Tokyo,Setagaya,Public,200
+H0011,Setagaya General Hospital,Tokyo,Setagaya,General,1100
+H0012,Setagaya Cancer Center,Tokyo,Setagaya,Specialist,350
+H0013,Shibuya Central Hospital,Tokyo,Shibuya,General,500
+H0014,Shibuya Cancer Center,Tokyo,Shibuya,Specialist,350
+H0015,Shibuya General Hospital,Tokyo,Shibuya,General,120
+H0016,Shibuya Medical Center,Tokyo,Shibuya,General,200
+H0017,Chuo Memorial Clinic,Tokyo,Chuo,Clinic,50
+H0018,Chuo Central Hospital,Tokyo,Chuo,General,500
+H0019,Chuo Cancer Center,Tokyo,Chuo,Specialist,500
+H0020,Chuo Medical Center,Tokyo,Chuo,General,350
+H0021,Yokohama Central Hospital,Kanagawa,Yokohama,General,50
+H0022,Yokohama Memorial Clinic,Kanagawa,Yokohama,Clinic,800
+H0023,Yokohama Medical Center,Kanagawa,Yokohama,General,50
+H0024,Yokohama Red Cross Hospital,Kanagawa,Yokohama,Public,350
+H0025,Kawasaki Memorial Clinic,Kanagawa,Kawasaki,Clinic,19
+H0026,Kawasaki Red Cross Hospital,Kanagawa,Kawasaki,Public,200
+H0027,Kawasaki General Hospital,Kanagawa,Kawasaki,General,350
+H0028,Kawasaki Central Hospital,Kanagawa,Kawasaki,General,50
+H0029,Sagamihara Medical Center,Kanagawa,Sagamihara,General,350
+H0030,Sagamihara Cancer Center,Kanagawa,Sagamihara,Specialist,1100
+H0031,Sagamihara Central Hospital,Kanagawa,Sagamihara,General,500
+H0032,Sagamihara Municipal Hospital,Kanagawa,Sagamihara,Public,120
+H0033,Osaka Memorial Clinic,Osaka,Osaka,Clinic,50
+H0034,Osaka University Hospital,Osaka,Osaka,University,120
+H0035,Osaka General Hospital,Osaka,Osaka,General,200
+H0036,Osaka Cancer Center,Osaka,Osaka,Specialist,120
+H0037,Sakai Municipal Hospital,Osaka,Sakai,Public,200
+H0038,Sakai Medical Center,Osaka,Sakai,General,500
+H0039,Sakai University Hospital,Osaka,Sakai,University,19
+H0040,Sakai Red Cross Hospital,Osaka,Sakai,Public,200
+H0041,Toyonaka Central Hospital,Osaka,Toyonaka,General,350
+H0042,Toyonaka Cancer Center,Osaka,Toyonaka,Specialist,50
+H0043,Toyonaka University Hospital,Osaka,Toyonaka,University,200
+H0044,Toyonaka Medical Center,Osaka,Toyonaka,General,500
+H0045,Nagoya Medical Center,Aichi,Nagoya,General,1100
+H0046,Nagoya Memorial Clinic,Aichi,Nagoya,Clinic,120
+H0047,Nagoya Municipal Hospital,Aichi,Nagoya,Public,350
+H0048,Nagoya Cancer Center,Aichi,Nagoya,Specialist,120
+H0049,Toyota Medical Center,Aichi,Toyota,General,350
+H0050,Toyota Memorial Clinic,Aichi,Toyota,Clinic,800
+H0051,Toyota Red Cross Hospital,Aichi,Toyota,Public,800
+H0052,Toyota Cancer Center,Aichi,Toyota,Specialist,500
+H0053,Okazaki Medical Center,Aichi,Okazaki,General,50
+H0054,Okazaki General Hospital,Aichi,Okazaki,General,19
+H0055,Okazaki Red Cross Hospital,Aichi,Okazaki,Public,50
+H0056,Okazaki Municipal Hospital,Aichi,Okazaki,Public,120
+H0057,Fukuoka University Hospital,Fukuoka,Fukuoka,University,50
+H0058,Fukuoka Cancer Center,Fukuoka,Fukuoka,Specialist,800
+H0059,Fukuoka Memorial Clinic,Fukuoka,Fukuoka,Clinic,800
+H0060,Fukuoka Medical Center,Fukuoka,Fukuoka,General,1100
+H0061,Kitakyushu Red Cross Hospital,Fukuoka,Kitakyushu,Public,350
+H0062,Kitakyushu Municipal Hospital,Fukuoka,Kitakyushu,Public,500
+H0063,Kitakyushu Central Hospital,Fukuoka,Kitakyushu,General,50
+H0064,Kitakyushu Memorial Clinic,Fukuoka,Kitakyushu,Clinic,350
+H0065,Sapporo Cancer Center,Hokkaido,Sapporo,Specialist,350
+H0066,Sapporo General Hospital,Hokkaido,Sapporo,General,120
+H0067,Sapporo Medical Center,Hokkaido,Sapporo,General,50
+H0068,Sapporo Central Hospital,Hokkaido,Sapporo,General,350
+H0069,Asahikawa Medical Center,Hokkaido,Asahikawa,General,19
+H0070,Asahikawa General Hospital,Hokkaido,Asahikawa,General,500
+H0071,Asahikawa University Hospital,Hokkaido,Asahikawa,University,1100
+H0072,Asahikawa Cancer Center,Hokkaido,Asahikawa,Specialist,19

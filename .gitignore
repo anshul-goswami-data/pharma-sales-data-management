@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated data (recreate with: python src/generate_data.py)
+data/raw/
+data/processed/
+data/output/
+
+# Secrets / local config
+.env
+*.local.json
+
+# Power BI temp
+*.pbix.bak
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
